@@ -1,0 +1,10 @@
+<item>
+        <title>SONIC O FILME (2020) CINEMA</title>    
+		<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=AQUI EDITAR URL?usp=drivesdk</link>
+        <thumbnail>https://ia801402.us.archive.org/19/items/sonicofilme/Sonic%20o%20Filme.png</thumbnail>
+        <genre>INFANTIL</genre>
+        <info></info>
+        <date></date>2020<!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - -->
+        <fanart></fanart>
+    </item>
