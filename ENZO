@@ -1,9 +1,23 @@
-  
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SONIC[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/19/items/sonicofilme/Sonic%20o%20Filme.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/wchris23/WILLSHARED/master/Sonic%20O%20filme</externallink>
+<fanart>https://ia601407.us.archive.org/33/items/fanart_20200311/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] -  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SONIC[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601500.us.archive.org/31/items/chihiro_202003/Chihiro.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/wchris23/WILLSHARED/master/Chihiro</externallink>
 <fanart>https://ia601407.us.archive.org/33/items/fanart_20200311/fanart.jpg</fanart>
 <info>
 
