@@ -15,9 +15,23 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENZO FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/0/items/desenhos_202003/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/wchris23/WILLSHARED/master/ENZO</externallink>
+<fanart>https://ia801407.us.archive.org/33/items/fanart_20200311/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES VARIADOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801506.us.archive.org/0/items/desenhos_202003/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/wchris23/WILLSHARED/master/ENZO</externallink>
 <fanart>https://ia801407.us.archive.org/33/items/fanart_20200311/fanart.jpg</fanart>
 <info>
