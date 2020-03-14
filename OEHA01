@@ -1,24 +1,13 @@
  <item>
-        <title>1º Temporada</title>
-        <link>IGNOREME</link>
-        <thumbnail></thumbnail>
-        <genre></genre>
-        <info></info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - -->
-        <fanart></fanart>
-    </item>
-	
-	 <item>
         <title>01</title>
         <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NjlYge4DEBqK9xVhSHES4uSOyGExKfgy/view?usp=drivesdk</link>
         <thumbnail></thumbnail>
         <genre></genre>
-        <info></info>
+        <info>Peter Parker é um adolescente que tem que conciliar sua vida escolar com sua vida de herói. Manter sua identidade secreta pode ser tão difícil e importante quanto proteger os cidadãos dos vilões.</info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - -->
         <fanart></fanart>
-    </item>
+  </item>
 	
 		 <item>
         <title>02</title>    
