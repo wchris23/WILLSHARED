@@ -9,3 +9,14 @@
         <fanart></fanart>
     </item>
     
+    <item>
+        <title>SONIC O FILME (2020) CINEMA</title>    
+	<link>https://cdn3.canais.ink/RCServer14/ondemand/CLQET01EP01.mp4?expires=1584310824&token=dd2f0afeac776d67f8912542de9d7022&attachment=true</link>
+        <thumbnail>https://ia801402.us.archive.org/19/items/sonicofilme/Sonic%20o%20Filme.png</thumbnail>
+        <genre>INFANTIL</genre>
+        <info></info>
+        <date></date>2020<!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - -->
+        <fanart></fanart>
+    </item>
+    
